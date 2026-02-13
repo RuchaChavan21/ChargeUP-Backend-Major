@@ -2,7 +2,6 @@ package chargeUp.dev.service.elasticsearch.indexer.template.provider.epdk.model;
 
 import chargeUp.dev.entity.domain.charging.*;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import dev.sarj.sarjdev.entity.domain.charging.*;
 import chargeUp.dev.entity.enums.ChargingProvider;
 import chargeUp.dev.service.elasticsearch.indexer.mapper.IndexDocumentMapper;
 import chargeUp.dev.service.elasticsearch.indexer.model.ChargingIndexDocument;
